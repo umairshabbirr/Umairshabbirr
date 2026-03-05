@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umair</h1>
-<h3 align="center">BSAI Student | Aspiring AI Engineer | Python & DSA Enthusiast</h3> 
+<h3 align="center">BSAI Student | Aspiring AI Engineer | Machine Learning Enthusiast | Python Developer</h3> 
 
 ![](https://komarev.com/ghpvc/?username=Umairshabbir-dev&label=Profile%20Views&color=blue&style=flat)
 
