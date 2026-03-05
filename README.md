@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umair</h1>
 <h3 align="center">BSAI Student | Aspiring AI Engineer | Machine Learning Enthusiast | Python Developer</h3> 
 
-![](https://komarev.com/ghpvc/?username=Umairshabbir-dev&label=Profile%20Views&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blue)
 
 ---
 
 ### 👨‍🎓 About Me  
 - 🎓 I am currently pursuing **BSAI (Bachelor's in Artificial Intelligence)**  
-- 🐍 Learning **Python** and **Data Structures & Algorithms** to build a strong foundation  
+- 🐍 I am currently learning **Python, Data Structures & Algorithms and exploring Machine Learning** to build a strong foundation. 
 - 🤖 My Goal: To grow as an **AI Engineer** and contribute to open-source projects  
 - ✨ Exploring **Machine Learning & Deep Learning** step by step  
 
