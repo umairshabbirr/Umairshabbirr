@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umair</h1>
-<h3 align="center">BSAI Student | Aspiring AI Engineer | Machine Learning Enthusiast | Python Developer</h3> 
+<h3 align="center">BSAI student building AI/ML projects | Founder @ Toolzify | Python · Computer Vision · Automation</h3> 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blue)
 
