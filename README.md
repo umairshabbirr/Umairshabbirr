@@ -1,8 +1,7 @@
-<h1 align="center">Hi, I'm Muhammad Umair 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Umair 👋</h1> 
 <h3 align="center">BSAI Student Building AI/ML Projects | Founder @ Toolzify | Python · Computer Vision · Automation</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue&style=flat" alt="Profile views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+AI+Agents;Developing+Automation+Systems;Learning+LLM+Engineering;Future+AI+Engineer" alt="Typing SVG" />
 </p>
 
 ---
